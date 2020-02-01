@@ -1,4 +1,22 @@
 # depslib dependency file v1.0
-1577579017 source:c:\users\makot\cppproject\testcpp\main.cpp
+1579922868 source:c:\users\makot\cppproject\testcpp\main.cpp
 	<iostream>
+	<string>
+	"CppSample.h"
+	<stdio.h>
+	"Sample.h"
+	"SampleAccessMethod.h"
+
+1578900516 source:c:\users\makot\cppproject\testcpp\src\cppsample.cpp
+	"CppSample.h"
+
+1578900495 c:\users\makot\cppproject\testcpp\include\cppsample.h
+
+1579922140 source:c:\users\makot\cppproject\testcpp\src\sample.cpp
+	"Sample.h"
+	<iostream>
+
+1579921887 c:\users\makot\cppproject\testcpp\include\sample.h
+
+1579922651 c:\users\makot\cppproject\testcpp\include\sampleaccessmethod.h
 
